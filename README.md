@@ -23,10 +23,12 @@
 ![image](https://user-images.githubusercontent.com/52793184/133607711-d755fe5f-22cc-47c9-ba01-2dc6f87767e3.png)
 
 ![image](https://user-images.githubusercontent.com/52793184/133607804-31f85bbe-3a0e-47f7-9e1f-a0f2a7913d62.png)
-
+- OBS: localhost alterado para :3003 /src/man.ts, devido eu ter, uma instancia com :3000.
 ![image](https://user-images.githubusercontent.com/52793184/133607907-f91086df-a493-45e0-a813-2af4af75cd35.png)
 
 ![image](https://user-images.githubusercontent.com/52793184/133610974-5b51813c-a178-461b-a49d-0c92839079f1.png)
 
 ![image](https://user-images.githubusercontent.com/52793184/133611016-3ffb5132-5462-4de8-bbb8-588f411f7096.png)
+
+![image](https://user-images.githubusercontent.com/52793184/133612731-8df6040b-7e90-449a-a3d3-60a50f3f71c8.png)
 
